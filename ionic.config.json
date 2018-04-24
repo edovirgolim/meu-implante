@@ -1,0 +1,8 @@
+{
+  "name": "meuImplante",
+  "app_id": "17964dcc",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
